@@ -23,6 +23,7 @@ The **Sunrise Supermarket Database System** manages day-to-day operations for re
 The database schema consists of four relational tables: <mark>CUSTOMERS, PRODUCTS</mark> , <mark>ORDERS,</mark> and <mark>ORDER_ITEMS.</mark> SQL 
 
 <img width="333" height="414" alt="image" src="https://github.com/user-attachments/assets/570306ff-a4c5-4055-8546-5f377c57f0fc" />
+
 **Figure 1:** **_This shows tables creation_** 
 
 <img width="378" height="167" alt="image" src="https://github.com/user-attachments/assets/2ac46fa5-0222-4d03-8d4d-cc0e2824fb23" />
@@ -37,9 +38,11 @@ The database was populated with sample data using Oracle's <mark>INSERT ALL</mar
 **Figure 3:** **_This figure shows the customer data entry_** 
 
 <img width="665" height="261" alt="product insertion" src="https://github.com/user-attachments/assets/07ee4bd2-2e71-4a2c-805a-4a3e4d341ec4" />
+
 **Figure 4:** **_This figure shows the orders data entry_** 
 
 <img width="538" height="592" alt="order-items" src="https://github.com/user-attachments/assets/e3d55c10-08e9-4234-ba6f-ad42fc6b7cf4" />
+
 **Figure 5:** **_This figure shows the order_items data entry_** 
 
 ## **3. Transition from Command Prompt to Oracle APEX Reason for Shifting to APEX** 
