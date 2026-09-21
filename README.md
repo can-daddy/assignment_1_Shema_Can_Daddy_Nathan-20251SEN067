@@ -35,6 +35,7 @@ The database schema consists of four relational tables: <mark>CUSTOMERS, PRODUCT
 The database was populated with sample data using Oracle's <mark>INSERT ALL</mark> statement to load records across all four tables efficiently. 
 
 <img width="605" height="154" alt="image" src="https://github.com/user-attachments/assets/07a32fb8-7b94-469a-9204-9a27108b3e70" />
+
 **Figure 3:** **_This figure shows the customer data entry_** 
 
 <img width="665" height="261" alt="product insertion" src="https://github.com/user-attachments/assets/07ee4bd2-2e71-4a2c-805a-4a3e4d341ec4" />
