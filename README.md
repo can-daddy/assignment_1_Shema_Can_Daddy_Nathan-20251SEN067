@@ -23,7 +23,7 @@ The **Sunrise Supermarket Database System** manages day-to-day operations for re
 The database schema consists of four relational tables: <mark>CUSTOMERS, PRODUCTS</mark> , <mark>ORDERS,</mark> and <mark>ORDER_ITEMS.</mark> SQL 
 
 <img width="333" height="414" alt="image" src="https://github.com/user-attachments/assets/570306ff-a4c5-4055-8546-5f377c57f0fc" />
-##### **Figure 1:** **_This shows tables creation_** 
+**Figure 1:** **_This shows tables creation_** 
 
 <img width="378" height="167" alt="image" src="https://github.com/user-attachments/assets/2ac46fa5-0222-4d03-8d4d-cc0e2824fb23" />
 
